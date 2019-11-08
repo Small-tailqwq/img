@@ -23,6 +23,7 @@
 * 开发人员设置一栏找到同样是位于最下的个人访问令牌  
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img003.JPG)  
 <p align="center">点击生成新令牌</p>
+
 * 这里需要填写令牌的用途，当然，这是为了你自己以后能够分辨而填的~~可以随便填~~  
 权限的话选择第一个`repo`就行，别的不用勾  
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img004.JPG)
