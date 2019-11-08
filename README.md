@@ -11,7 +11,7 @@
 
 
 # 使用方法  
-- 下载[PicGO](https://github.com/Molunerfinn/PicGo)  
+- 下载[PicGO](https://github.com/Molunerfinn/PicGo)这里选择对应你自己系统的版本进行下载  
 - 图床设置——Github图床设置  
 - **仓库名**填`用户名/仓库`，比如我这个就是`small-tailqwq/img`这里的github.com的域名不必填入  
 - **分支名**一般不用管，填`master`就行  
