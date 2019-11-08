@@ -31,4 +31,4 @@
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img005.JPG)
 * 点击复制——到PicGo里面粘贴就大功告成了  
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img006.JPG)  
-*这个已经被我`DEL`啦qwq
+*这个已经被我`DEL`啦qwq*
