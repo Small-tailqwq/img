@@ -1,5 +1,5 @@
-> 使用格式  
-在末尾添加文件名即可
+> **使用格式**  
+在链接末尾添加文件名即可
 ```
 https://cdn.jsdelivr.net/gh/Small-tailqwq/img/
 ```
