@@ -1,3 +1,9 @@
+> 使用格式  
+在末尾添加文件名即可
+```
+https://cdn.jsdelivr.net/gh/Small-tailqwq/img/
+```
+
 # **img**  
 # 这是一个GitHub图床**qwq**  
 - 你可以  
