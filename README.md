@@ -5,12 +5,12 @@ https://cdn.jsdelivr.net/gh/Small-tailqwq/img/
 ```
 
 # **img**  
-# 这是一个GitHub图床**qwq**  
+# 这是一个GitHub图床  
 - 你可以  
   - 上传图片至这个库；但请注意分类  
   - 获取图床中的图片连接，插入文章当中；但请注意版权信息  
   - 给图床里的图片分分类，让它们更容易被使用者找到；但链接的变动将会影响文章里的图片，所以请慎重操作  
-  - 多喝热水，出门走走；久坐对身体可不太好哦  
+  - 多喝热水，出门走走； 
 
 ## 重要  
 上传图片记得对图片名称进行编辑，一次性图片可以忽略。部分图片可注释。  
@@ -37,4 +37,4 @@ https://cdn.jsdelivr.net/gh/Small-tailqwq/img/
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img005.JPG)
 * 点击复制——到PicGo里面粘贴就大功告成了  
 ![](https://raw.githubusercontent.com/Small-tailqwq/img/master/blog/img006.JPG)  
-*这个已经被我`DEL`啦qwq*
+*这个已经被我`DEL`啦*
