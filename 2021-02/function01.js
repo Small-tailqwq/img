@@ -1,4 +1,3 @@
-﻿
 // Merger - Merge Your Qrcode Together. Even Quicker.
 // User docs: https://merger.justhx.com/#/
 // Released under GNU General Public License v3.0. Open source at https://github.com/hifocus/merger.
@@ -49,15 +48,14 @@ else {
     // detect browser langauge, simplified chinese only
     document.write("<style>body { font-family: -apple-system, system-ui, BlinkMacSystemFont, Roboto, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', sans-serif; }</style>");
     
-    document.title = 'NAS引导页';
-    
-    var finaltitle = "去哪？干啥？和谁？";
-    var finalsub = "谢绝bot，这里啥也没有";
+    document.title = 'はやさ';
+    var finaltitle = "どこ行くの  少し遠くまで";
+    var finalsub = "置いてきたものは　夢に";
     
   }
 
 }
 
 // Fill in tile and subtitle
-document.getElementById("name").innerHTML = finaltitle;
-document.getElementById("description").innerHTML = finalsub;
+document.getElementById("text01").innerHTML = finaltitle;
+document.getElementById("text02").innerHTML = finalsub;
