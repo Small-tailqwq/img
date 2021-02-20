@@ -51,8 +51,8 @@ else {
     
     document.title = 'NAS引导页';
     
-    var finaltitle = "选择浏览协议";
-    var finalsub = "左为  http  | 右为 https";
+    var finaltitle = "去哪？干啥？和谁？";
+    var finalsub = "谢绝bot，这里啥也没有";
     
   }
 
