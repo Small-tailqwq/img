@@ -1,4 +1,4 @@
-﻿/*
+/*
 Merger - Merge your qrcode together. Even quicker.
 Released under GNU General Public License v3.0. Opensourced. (https://github.com/hifocus/merger)
 Author @hifocus (https://github.com/hifocus), @LF112 (https://github.com/lf112)
@@ -75,65 +75,29 @@ body {
   margin: 0 auto;
   text-align: match-parent;
 }
-
 p,
 h2 {
   font-weight: 400;
   color: #fff;
   text-align: center;
+  font-family:Georgia, "游明朝", "Yu Mincho", "游明朝体", YuMincho, "ヒラギノ明朝 Pro", "Hiragino Mincho ProN", "MS P明朝", "MS PMincho", HGS明朝E, "MS Mincho", serif;
   margin: 0;
   margin-top: 20px;
 }
 
 h2 {
   font-size: 30px;
+  width:100%;
 }
 
+
 p {
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .texts {
   margin-left: 5%;
   margin-right: 5%;
-}
-
-.middlebtn {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  opacity: 0.80;
-}
-
-.details {
-  font-size: 20px;
-}
-
-.qrcode {
-  width: 50%;
-  height: 50%;
-}
-
-.modal-body .content {
-  text-align: center;
-}
-
-@media all and (max-width: 800px) {
-  .desktop {
-    display: none;
-  }
-  .h5 {
-    font-size: 18px;
-      }
-}
-
-@media all and (min-width: 800px){
-  .smaller {
-    width: 50%;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-  }
 }
 
 /* iconfont general css here */
@@ -145,19 +109,6 @@ p {
   overflow: hidden;
   font-size: 200;
   opacity: 1;
-}
-
-.paypal-wide {
-  width: 3em;
-}
-
-/* .qrcode {
-  display: inline-block;
-  margin: 0 auto;
-} */
-
-.wechat .alipay .tenpay {
-  display: none;
 }
 
 img {
